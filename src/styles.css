@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  height: 98vh;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://img-19.ccm.net/ZJ69LYljcXTsyvIqa0jhyHWTr3k=/1500x/smart/d8919c6c1fea45a5aa3a142f4b910a11/ccmcms-enccm/33046968.jpg");
+  background-size: cover;
+  color: snow;
+  font-family: "Urbanist", sans-serif;
+  font-size: 25px;
+}
