@@ -1,4 +1,4 @@
-# ClockReact
+# Clock-React
 Wallpaper live clock app in React JS. You can check out the live app at this [site](https://gscsfy.csb.app/).
 
 # Example
